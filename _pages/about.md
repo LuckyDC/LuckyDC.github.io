@@ -199,16 +199,6 @@ Genghao Zhang, Yuxi Wang, **Chuanchen Luo**, Shibiao Xu, Junran Peng, Zhaoxiang 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/chatmotion.png' width="190" height="90"></div></div>
-<div class='paper-box-text' markdown="1"> 
-**Generating Fine-Grained Human Motions Using ChatGPT-Refined Descriptions**
-[[Paper](https://arxiv.org/abs/2312.02772)]
-
-Xu Shi, **Chuanchen Luo**, Junran Peng, Hongwen Zhang, Yunlian Sun
-
-</div>
-</div>
-
 
 
 # 📖 Experiences

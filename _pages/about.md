@@ -19,13 +19,13 @@ redirect_from:
 
 # 🎓 About Me
 I am currently an Assistant Professor in the [School of Artificial Intelligence](https://ai.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/).
-My research interests focus on 3D computer vision and generative AI, including motion capture & synthesis, 3D reconstruction, image/video generation and neural rendering. 
+My research interests focus on 3D computer vision, generative AI, and embodied AI, including motion capture & synthesis, 3D reconstruction, image & video generation, neural rendering. 
 
 
 # 🔈 Join Us
 Please feel free to contact me for possible cooperation if you are interested in our projects or 3D vision research.
 
-随时欢迎对三维视觉、生成式人工智能感兴趣的老师/研究生/本科生/实习生通过[邮件](chuanchen.luo@sdu.edu.cn)联系合作、交流。
+随时欢迎对三维视觉、生成式人工智能、具身智能感兴趣的老师/研究生/本科生/实习生通过[邮件](images/email.png)联系合作、交流。
 
 
 # 🔥 News
@@ -156,6 +156,28 @@ IEEE/CVF International Conference on Computer Vision (**ICCV**) 2019
 
 # 📄 Pre-Prints 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/citygs2.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes**
+[[Paper](https://arxiv.org/pdf/2411.00771)]
+[[Project](https://dekuliutesla.github.io/CityGaussianV2/)]
+  
+Yang Liu, **Chuanchen Luo**, Zhongkai Mao, Junran Peng, Zhaoxiang Zhang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/cityx.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**CityX: Controllable Procedural Content Generation for Unbounded 3D Cities**
+[[Paper](https://arxiv.org/pdf/2407.17572)]
+[[Project](https://cityx-lab.github.io/)]
+
+Shougao Zhang, Mengqi Zhou, Yuxi Wang, **Chuanchen Luo**, Rongyu Wang, Yiwei Li, Xucheng Yin, Zhaoxiang Zhang†, Junran Peng
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/scenex.gif' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **Scenex: Procedural Controllable Large-Scale Scene Generation via Large-Language Models**
@@ -199,4 +221,15 @@ Xu Shi, **Chuanchen Luo**, Junran Peng, Hongwen Zhang, Yunlian Sun
   
 * B.E. in the [school of Information Science and Engineering](https://www.ise.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/)  
   Date: 2013.09 ~ 2017.07
+
+
+# 🌏 Collaborators
+I am honored to have a deep collaboration with:
+
+* [Junran Peng 彭君然 (University of Science and Technology Beijing)](https://jrpeng.github.io/)
+  
+* [Zhaoxiang Zhang 张兆翔 (Institute of Automation, CAS)](https://zhaoxiangzhang.net/)
+
+and [More](https://scholar.google.com/citations?hl=en&user=6iZ7VJYAAAAJ#d=gsc_md_cod&t=1731681093344&u=%2Fcitations%3Fview_op%3Dlist_colleagues%26hl%3Den%26json%3D%26user%3D6iZ7VJYAAAAJ%23t%3Dgsc_cod_lc).
+
 

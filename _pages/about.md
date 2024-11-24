@@ -209,7 +209,7 @@ Genghao Zhang, Yuxi Wang, **Chuanchen Luo**, Shibiao Xu, Junran Peng, Zhaoxiang 
   Date: 2017.09 ~ 2023.07  
   Supervisor: Prof. [Zhaoxiang Zhang (张兆翔)](https://zhaoxiangzhang.net/).
   
-* B.E. in the [school of Information Science and Engineering](https://www.ise.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/)  
+* B.E. in the [School of Information Science and Engineering](https://www.ise.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/)  
   Date: 2013.09 ~ 2017.07
 
 

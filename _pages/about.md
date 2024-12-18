@@ -37,7 +37,7 @@ Please feel free to contact me for possible cooperation if you are interested in
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><div><img src='images/scenex.gif' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/scenex.gif' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **SceneX: Procedural Controllable Large-scale Scene Generation**
 [[Paper](https://arxiv.org/abs/2403.15698)]

@@ -29,12 +29,25 @@ Please feel free to contact me for possible cooperation if you are interested in
 
 
 # 🔥 News
+- *2024.12*: &nbsp; One papers accepted by AAAI2025. 
 - *2024.07*: &nbsp; Two papers accepted by ACM MM 2024 as oral representations. 
 - *2024.07*: &nbsp; One paper accepted by ECCV 2024. 
 - *2024.02*: &nbsp; One paper accepted by CVPR 2024.
 
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><div><img src='images/scenex.gif' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**SceneX: Procedural Controllable Large-scale Scene Generation**
+[[Paper](https://arxiv.org/abs/2403.15698)]
+[[Project](https://scenex-lab.github.io/)]
+
+Mengqi Zhou, Jun Hou, **Chuanchen Luo**, Yuxi Wang, Zhaoxiang Zhang, Junran Peng
+
+Annual AAAI Conference on Artificial Intelligence (**AAAI**) 2025
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='images/stablemofusion.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
@@ -174,17 +187,6 @@ Yang Liu, **Chuanchen Luo**, Zhongkai Mao, Junran Peng, Zhaoxiang Zhang
 [[Project](https://cityx-lab.github.io/)]
 
 Shougao Zhang, Mengqi Zhou, Yuxi Wang, **Chuanchen Luo**, Rongyu Wang, Yiwei Li, Xucheng Yin, Zhaoxiang Zhang†, Junran Peng
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/scenex.gif' width="190" height="90"></div></div>
-<div class='paper-box-text' markdown="1"> 
-**Scenex: Procedural Controllable Large-Scale Scene Generation via Large-Language Models**
-[[Paper](https://arxiv.org/abs/2403.15698)]
-[[Project](https://scenex-lab.github.io/)]
-
-Mengqi Zhou, Jun Hou, **Chuanchen Luo**, Yuxi Wang, Zhaoxiang Zhang, Junran Peng
 
 </div>
 </div>

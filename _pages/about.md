@@ -53,6 +53,7 @@ Annual AAAI Conference on Artificial Intelligence (**AAAI**) 2025
 <div class='paper-box-text' markdown="1"> 
 **StableMoFusion: Towards Robust and Efficient Diffusion-based Motion Generation Framework**
 [[Paper](https://arxiv.org/abs/2405.05691)]
+[[Project](https://h-y1heng.github.io/StableMoFusion-page)]  
 [[Code](https://github.com/h-y1heng/StableMoFusion)]
 
 Yiheng Huang, Hui Yang, **Chuanchen Luo**, Yuxi Wang, Shibiao Xu, Zhaoxiang Zhang, Man Zhang, Junran Peng

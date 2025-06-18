@@ -29,6 +29,7 @@ Please feel free to contact me for possible cooperation if you are interested in
 
 
 # 🔥 News
+- *2025.04*: &nbsp; One papers accepted by ICLR2025. 
 - *2024.12*: &nbsp; One papers accepted by AAAI2025. 
 - *2024.07*: &nbsp; Two papers accepted by ACM MM 2024 as oral representations. 
 - *2024.07*: &nbsp; One paper accepted by ECCV 2024. 
@@ -36,6 +37,17 @@ Please feel free to contact me for possible cooperation if you are interested in
 
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/citygs2.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes**
+[[Paper](https://arxiv.org/pdf/2411.00771)]
+[[Project](https://dekuliutesla.github.io/CityGaussianV2/)]
+  
+Yang Liu, **Chuanchen Luo**, Zhongkai Mao, Junran Peng, Zhaoxiang Zhang
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/scenex.jpg' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
@@ -170,16 +182,6 @@ IEEE/CVF International Conference on Computer Vision (**ICCV**) 2019
 
 # 📄 Pre-Prints 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/citygs2.png' width="190" height="90"></div></div>
-<div class='paper-box-text' markdown="1"> 
-**CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes**
-[[Paper](https://arxiv.org/pdf/2411.00771)]
-[[Project](https://dekuliutesla.github.io/CityGaussianV2/)]
-  
-Yang Liu, **Chuanchen Luo**, Zhongkai Mao, Junran Peng, Zhaoxiang Zhang
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/cityx.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 

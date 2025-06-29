@@ -29,8 +29,8 @@ Please feel free to contact me for possible cooperation if you are interested in
 
 
 # 🔥 News
-- *2025.04*: &nbsp; One papers accepted by ICLR2025. 
-- *2024.12*: &nbsp; One papers accepted by AAAI2025. 
+- *2025.04*: &nbsp; One paper accepted by ICLR2025. 
+- *2024.12*: &nbsp; One paper accepted by AAAI2025. 
 - *2024.07*: &nbsp; Two papers accepted by ACM MM 2024 as oral representations. 
 - *2024.07*: &nbsp; One paper accepted by ECCV 2024. 
 - *2024.02*: &nbsp; One paper accepted by CVPR 2024.

@@ -29,6 +29,7 @@ Please feel free to contact me for possible cooperation if you are interested in
 
 
 # 🔥 News
+- *2025.09*: &nbsp; One paper accepted by NeurIPS2025. 
 - *2025.04*: &nbsp; One paper accepted by ICLR2025. 
 - *2024.12*: &nbsp; One paper accepted by AAAI2025. 
 - *2024.07*: &nbsp; Two papers accepted by ACM MM 2024 as oral representations. 
@@ -37,6 +38,17 @@ Please feel free to contact me for possible cooperation if you are interested in
 
 
 # 📝 Selected Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/tclight.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**TC-Light: Temporally Consistent Relighting for Dynamic Long Videos**
+[[Paper](https://arxiv.org/pdf/2506.18904)]
+[[Project](https://dekuliutesla.github.io/tclight)]
+  
+Yang Liu, **Chuanchen Luo**, Zimo Tang, Yingyan Li, Yuran Yang, Yuanyong Ning, Lue Fan, Junran Peng, Zhaoxiang Zhang
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/citygs2.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 

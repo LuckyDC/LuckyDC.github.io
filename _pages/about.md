@@ -194,6 +194,17 @@ IEEE/CVF International Conference on Computer Vision (**ICCV**) 2019
 
 # 📄 Pre-Prints 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/marketgen.gif' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**MarketGen: A Scalable Simulation Platform with Auto-Generated Embodied Supermarket Environments**
+[[Paper](https://arxiv.org/pdf/2511.21161)]
+[[Project](https://xuhu0529.github.io/MarketGen/)]
+
+Xu Hu, Yiyang Feng, Junran Peng, Jiawei He, Liyi Chen, **Chuanchen Luo**, Xucheng Yin, Qing Li, Zhaoxiang Zhang
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/cityx.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
@@ -202,16 +213,6 @@ IEEE/CVF International Conference on Computer Vision (**ICCV**) 2019
 [[Project](https://cityx-lab.github.io/)]
 
 Shougao Zhang, Mengqi Zhou, Yuxi Wang, **Chuanchen Luo**, Rongyu Wang, Yiwei Li, Xucheng Yin, Zhaoxiang Zhang†, Junran Peng
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/furniscene.png' width="190" height="90"></div></div>
-<div class='paper-box-text' markdown="1"> 
-**Furniscene: A Large-Scale 3D Room Dataset with Intricate Furnishing Scenes**
-[[Paper](https://arxiv.org/abs/2401.03470)]
-
-Genghao Zhang, Yuxi Wang, **Chuanchen Luo**, Shibiao Xu, Junran Peng, Zhaoxiang Zhang, Man Zhang
 
 </div>
 </div>

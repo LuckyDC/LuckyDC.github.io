@@ -38,13 +38,15 @@ Please feel free to contact me for possible cooperation if you are interested in
 
 
 # 📝 Selected Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/tclight.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/tclight.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **TC-Light: Temporally Consistent Relighting for Dynamic Long Videos**
 [[Paper](https://arxiv.org/pdf/2506.18904)]
 [[Project](https://dekuliutesla.github.io/tclight)]
   
 Yang Liu, **Chuanchen Luo**, Zimo Tang, Yingyan Li, Yuran Yang, Yuanyong Ning, Lue Fan, Junran Peng, Zhaoxiang Zhang
+
+Conference on Neural Information Processing Systems (**NeurIPS**) 2025
 
 </div>
 </div>
@@ -57,6 +59,8 @@ Yang Liu, **Chuanchen Luo**, Zimo Tang, Yingyan Li, Yuran Yang, Yuanyong Ning, L
 [[Project](https://dekuliutesla.github.io/CityGaussianV2/)]
   
 Yang Liu, **Chuanchen Luo**, Zhongkai Mao, Junran Peng, Zhaoxiang Zhang
+
+International Conference on Learning Representations (**ICLR**) 2025
 
 </div>
 </div>

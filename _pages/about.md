@@ -29,6 +29,7 @@ Please feel free to contact me for possible cooperation if you are interested in
 
 
 # 🔥 News
+- *2026.02*: &nbsp; One paper accepted by CVPR 2026. 
 - *2025.09*: &nbsp; One paper accepted by NeurIPS 2025. 
 - *2025.04*: &nbsp; One paper accepted by ICLR 2025. 
 - *2024.12*: &nbsp; One paper accepted by AAAI 2025. 
@@ -38,6 +39,18 @@ Please feel free to contact me for possible cooperation if you are interested in
 
 
 # 📝 Selected Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/marketgen.gif' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**MarketGen: A Scalable Simulation Platform with Auto-Generated Embodied Supermarket Environments**
+[[Paper](https://arxiv.org/pdf/2511.21161)]
+[[Project](https://xuhu0529.github.io/MarketGen/)]
+
+Xu Hu, Yiyang Feng, Junran Peng, Jiawei He, Liyi Chen, **Chuanchen Luo**, Xucheng Yin, Qing Li, Zhaoxiang Zhang
+
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2026
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/tclight.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **TC-Light: Temporally Consistent Relighting for Dynamic Long Videos**
@@ -111,7 +124,7 @@ ACM International Conference on Multimedia (**ACM MM**) 2024 **Oral**
 [[Project](https://dekuliutesla.github.io/citygs/)]
 [[Code](https://github.com/DekuLiuTesla/CityGaussian)]
 
-Yang Liu, He Guan, **Chuanchen Luo**, Lue Fan, Junran Peng, Zhaoxiang Zhang
+Yang Liu, **Chuanchen Luo**, Lue Fan, Junran Peng, Zhaoxiang Zhang
 
 European Conference on Computer Vision (**ECCV**) 2024
 
@@ -197,17 +210,6 @@ IEEE/CVF International Conference on Computer Vision (**ICCV**) 2019
 
 
 # 📄 Pre-Prints 
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/marketgen.gif' width="190" height="90"></div></div>
-<div class='paper-box-text' markdown="1"> 
-**MarketGen: A Scalable Simulation Platform with Auto-Generated Embodied Supermarket Environments**
-[[Paper](https://arxiv.org/pdf/2511.21161)]
-[[Project](https://xuhu0529.github.io/MarketGen/)]
-
-Xu Hu, Yiyang Feng, Junran Peng, Jiawei He, Liyi Chen, **Chuanchen Luo**, Xucheng Yin, Qing Li, Zhaoxiang Zhang
-
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/cityx.png' width="190" height="90"></div></div>

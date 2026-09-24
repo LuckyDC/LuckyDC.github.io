@@ -19,7 +19,7 @@ redirect_from:
 
 # 🎓 About Me
 I am currently an Assistant Professor in the [School of Artificial Intelligence](https://ai.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/).
-My research interests focus on 3D computer vision, generative AI, and embodied AI, including motion capture & synthesis, 3D reconstruction, image & video generation, neural rendering. 
+My research interests focus on embodied AI, 3D computer vision, and generative AI. 
 
 
 # 🔈 Join Us
